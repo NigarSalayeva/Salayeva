@@ -1,26 +1,25 @@
 
   body {
-  padding: 0;
-  margin: 0;
+ 
   background: #F7F7F7;
-  background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
-  background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
-  background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  background: -moz-linear-gradient(50deg, #F7F7F7 5%, #EAE0D5 100%);
+  background: -webkit-linear-gradient(50deg, #F7F7F7 5%, #EAE0D5 100%);
+  background: linear-gradient(50deg, #F7F7F7 5%, #EAE0D5 50%);
 }
 
 .header {
   background-image: url(https://raw.githubusercontent.com/NigarSalayeva/Salayeva/main/IMG_4278.jpg);
-  height: 400px;
+  height: 450px;
   background-position: center center;
 }
 
 .team {
+  background-color: #f0ffff;
   margin: 40px auto;
-  padding: 20px 30px 40px 30px;
-  background-color: #FFFFFFFFF;
+  padding: 25px 35px 40px 35px;
   overflow: auto;
-  width: 75%;
-  border-radius: 4px;
+  width: 70%;
+  border-radius: 5px;
   align-self: center;
 }
 
@@ -47,28 +46,12 @@
 }
 
 
-.green {
-  background-color: #9EB599;
-}
-
-.brown {
-  background-color: #683C2C;
-}
-
-.nude {
-  background-color: #e9967a;
-}
-
-.blue {
-  background-color: #4682b4;
-}
-
 
 h2 {
   color: #9EB599;
   font-family: 'Raleway', sans-serif;
-  font-size: 28px;
-  font-weight: 500;
+  font-size: 30px;
+  font-weight: 600;
   text-align: left;
   text-transform: uppercase;
 }
@@ -94,21 +77,6 @@ h5 {
   line-height: .2em;
   font-weight: 300;
 }
-
-
-ul {
-  margin: 0 auto;
-  padding: 0;
-  width: 75%;
-}
-
-li {
-  border-bottom: 1px solid #E4BB97;
-  list-style: none;
-  margin: 100px 0px;
-  padding-bottom: 60px;
-}
-
 p {
   color: #444444;
   line-height: 32px;
@@ -120,10 +88,37 @@ p {
 a {
   color: #214E34;
   font-family: 'Raleway', sans-serif;
-  font-size: 13px;
-  font-weight: 900;
-  text-align: left;
+  font-size: 15px;
+  font-weight: 950;
+  text-align: center;
   text-transform: uppercase;
-  text-decoration: none;
-  letter-spacing: 2px;
+  letter-spacing: 2.5px;
+}
+
+.green {
+  background-color: #9EB599;
+}
+
+.brown {
+  background-color: #683C2C;
+}
+
+.nude {
+  background-color: #e9967a;
+}
+
+.blue {
+  background-color: #4682b4;
+}
+
+ul {
+ 
+  width: 75%;
+}
+
+li {
+  list-style: none;
+  border-bottom: 2px solid #E4BB97;
+  margin: 100px 0px;
+  padding-bottom: 50px;
 }
