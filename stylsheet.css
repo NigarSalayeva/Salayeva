@@ -1,23 +1,20 @@
-body {
+
+  body {
   padding: 0;
   margin: 0;
   background: #F7F7F7;
-  /* Old browsers */
   background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
-  /* FF3.6-15 */
   background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
-  /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
 }
 
-/** Header styles **/
 .header {
   background-image: url(https://raw.githubusercontent.com/NigarSalayeva/Salayeva/main/IMG_4278.jpg);
   height: 400px;
   background-position: center center;
 }
 
-.roasting {
+.team {
   margin: 40px auto;
   padding: 20px 30px 40px 30px;
   background-color: #FFFFFFFFF;
@@ -27,7 +24,7 @@ body {
   align-self: center;
 }
 
-.roasting p {
+.team p {
   color: #938E89;
   text-align: center;
   line-height: 24px;
@@ -36,7 +33,7 @@ body {
   font-weight: 400;
 }
 
-.spectrum div {
+.member div {
   font: inherit;
   padding: 0 20px;
   color: #FFFFFF;
@@ -44,44 +41,28 @@ body {
   opacity: 0.9;
 }
 
-.spectrum p {
+.member p {
   color: #FFFFFF;
   text-align: left;
 }
 
-/* Roast types */
+
 .green {
   background-color: #9EB599;
 }
 
-.light {
+.brown {
   background-color: #683C2C;
 }
 
-.city {
-  background-color: #4C352D;
+.nude {
+  background-color: #e9967a;
 }
 
-.vienna {
-  background-color: #352926;
+.blue {
+  background-color: #4682b4;
 }
 
-.italian {
-  background-color: #141212;
-}
-
-/* Typography */
-h1 {
-  color: midnightblue;
-  font-family: 'Covered By Your Grace', sans-serif;
-  font-size: 100px;
-  line-height: 76px;
-  margin: 0;
-  position: relative;
-  text-align: center;
-  top: 20%;
-  background-color: aqua;
-}
 
 h2 {
   color: #E4BB97;
