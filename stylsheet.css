@@ -65,7 +65,7 @@
 
 
 h2 {
-  color: #E4BB97;
+  color: #9EB599;
   font-family: 'Raleway', sans-serif;
   font-size: 28px;
   font-weight: 500;
@@ -74,10 +74,10 @@ h2 {
 }
 
 h3 {
-  color: #41292C;
+  color: #800000;
   font-family: 'Raleway', sans-serif;
-  font-size: 22px;
-  font-weight: 500;
+  font-size: 30px;
+  font-weight: 700;
   text-align: center;
 }
 
@@ -95,7 +95,7 @@ h5 {
   font-weight: 300;
 }
 
-/* Page elements */
+
 ul {
   margin: 0 auto;
   padding: 0;
