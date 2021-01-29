@@ -23,7 +23,7 @@ flex-wrap: wrap;
 }
 .header {
   background-color: #f0ffff;
-  background-image: url(images/IMG_4278.jpg);
+  background-image: url(https://raw.githubusercontent.com/NigarSalayeva/Salayeva/main/IMG_4278.jpg);
   height: 420px;
   background-position: center center;
  
@@ -55,7 +55,7 @@ transform: scale(0) translateY(1000px);
 50%
 {
 opacity: 1;
-background: url(images/IMG_4278.jpg);
+background: url(ihttps://raw.githubusercontent.com/NigarSalayeva/Salayeva/main/IMG_4278.jpg);
 background-position: center center;
 background-attachment: fixed;
 }
@@ -63,7 +63,7 @@ background-attachment: fixed;
 {
 opacity: 0;
 transform: scale(1) translateY(0px);
-background: url(images/IMG_4278.jpg);
+background: url(https://raw.githubusercontent.com/NigarSalayeva/Salayeva/main/IMG_4278.jpg);
 background-position: center center;
 background-attachment: fixed;
 }
