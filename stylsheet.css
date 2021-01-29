@@ -142,13 +142,12 @@ p {
 }
 
 a {
-  color: #214E34;
+  color: #4682b4;
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
   font-weight: 950;
   text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 2.5px;
+  letter-spacing: 2px;
 }
 
 .green {
